@@ -1,0 +1,6 @@
+{
+  "name": "StockFlow - Google Sheets Inventory System",
+  "description": "Real-time Google Sheets powered inventory management system with automated low-stock alerts, role-based access control, export capabilities, and seamless synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
